@@ -1,16 +1,8 @@
 # Medical Image Segmentation Application
 
-This project is a Java application that uses computer vision algorithms and image processing techniques to segment medical images and detect brain tumors quickly and accurately. The app is designed to be used by doctors to segment MRI images and it includes tools for manual annotation and review that allow doctors to check the processed segments before applying them in practice.
+![Screenshot 0](https://github.com/AbdelaliChe/Medical-Image-Segmentation-App/blob/main/ScreenShot/0.jpg)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
-
-## Introduction
-This application is a tool for segmenting medical images. It is intended for use by doctors to detect brain tumors in MRI images. The app uses thresholding technique to segment the image automatically, and it allows the user to adjust settings or parameters such as thresholding, noise reduction, etc. The app also includes tools for manual annotation and review that allow doctors to check the processed segments before applying them in practice.
+This project is a Java application that represents a real-life usage of image segmentation in the medical field. Its main purpose is to allow doctors to segment medical images and detect brain tumors quickly and accurately. It is designed using a combination of computer vision algorithms and image processing techniques. The app takes in raw medical images as input, which are then automatically segmented by the software using the thresholding technique. After adjusting settings or parameters such as thresholding, noise reduction, etc., the user can save the processed segments for later use. Furthermore, it includes tools for manual annotation and review that allow doctors to check the processed segments before applying them in practice.
 
 ## Requirements
 To run this application, you need the following requirements:
@@ -42,16 +34,14 @@ After compiling the code and running the application, follow these steps to use 
 
 ### Screenshots
 
-Here are a few examples of what MEDICABINET looks like:
+Here are a few examples of what the application looks like:
 
-![Screenshot 0](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/IMG-1st-SCREEN.jpg)
+![Screenshot 1](https://github.com/AbdelaliChe/Medical-Image-Segmentation-App/blob/main/ScreenShot/1.jpg)
 
-![Screenshot 1](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP1.png)
+![Screenshot 2](https://github.com/AbdelaliChe/Medical-Image-Segmentation-App/blob/main/ScreenShot/2.jpg)
 
-![Screenshot 2](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP2.png)
+![Screenshot 3](https://github.com/AbdelaliChe/Medical-Image-Segmentation-App/blob/main/ScreenShot/3.jpg)
 
-![Screenshot 3](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP3.png)
+![Screenshot 4](https://github.com/AbdelaliChe/Medical-Image-Segmentation-App/blob/main/ScreenShot/4.jpg)
 
-![Screenshot 4](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP4.png)
-
-![Screenshot 5](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP5.png)
+![Screenshot 5](https://github.com/AbdelaliChe/Medical-Image-Segmentation-App/blob/main/ScreenShot/5.jpg)
